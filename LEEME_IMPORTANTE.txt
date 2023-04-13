@@ -1,0 +1,15 @@
+insert.sql : son los insert into 'table_name' values, los que hay que introducir en cada tabla
+
+tablas-fase2.mwb : es el modelo actualizado de nuestra base de datos
+
+Cada vez que modifiquemos nuestro modelo local debemos:
+1. Database > "Synchronize Model"
+2. File > Save Model As...
+3. Entregarlo al aula virtual o subirlo al Google Drive
+
+Si, por el contrario, queremos actualizar nuestro modelo local 
+tomando de referencia el que tenemos en Google Drive, es decir como un pull del main, debemos:
+1. Descargar el fichero .mwb
+2. File > Open Model...
+3. Conectarlo con nuestro local
+4. Database > "Synchronize Model"
